@@ -1,0 +1,59 @@
+                          [ ASSIGNMENT_MODULE-1]
+
+
+Q.1 What is software?
+
+Ans:-software is a set of instruction,data or program used to operate computers and execute specific tasks.
+
+-it is the opposite of hardware,which describes the physical aspects of a computer.
+
+-software is a generic term used to refer to applications,scripts and programs that run on a device.
+
+-Types:
+
+(1) System Software
+(2) Application Software
+
+[System Software] :System Software is a software designed to provide plateform to other software.
+
+[Application Software] :The Software that help you to do a specific type of work is called application Software.
+Example:  Ms Word,Excel etc.
+ 
+
+ Q.2 What are the types of application?
+
+ Ans:-Desktop Application: 
+ 
+ The applications that can be installed on Computers/laptops having Operating System using exe or dmg or deb file etc.are Desktop applications.
+
+ Examples: .Browsers like chrome,edge,etc.
+           .paint etc.
+    
+ Web Application: 
+ 
+ The term web application refers to a software system that provides a user interface through a web browser.
+  Examples of Web applications include blogs,Online Shopping,Search engine,etc.
+  
+  -it executes at client side and all the resources of page loads at client side.
+   
+  -it execute at the server side all the central server.
+
+  Mobile Application:
+ 
+ A Mobile application is a Software Application developed Specifically for use with a mobile device such as a smartphone or tablet.Many think of mobile apps in the context of 21st century web based smartphones.
+
+
+ Q.3 What is Programming?
+
+  -Programming is the process of creating a set of instructions,that tell a computer how to perform a task.programming can be done 
+   using a variety of computer programming languages.
+ 
+  - Computer knows computer language(or) Programming language.
+   
+Q.4 What is Python?
+
+-python is a high-level interpreted language.
+-it is used to develop softwares and web applications.
+-python is a popular programming language.
+-its simplecity and readability.
+-python is dynamic type.
