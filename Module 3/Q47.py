@@ -9,8 +9,7 @@ dict = {}
 
 for char in string:
     if char in dict:
-        dict[char] += 1  # Increment the count if character is already in dictionary
+        dict[char] += 1 
     else:
-        dict[char] = 1   # Add character to dictionary with count 1
-
+        dict[char] = 1
 print(dict)

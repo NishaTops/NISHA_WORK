@@ -7,8 +7,8 @@ def rang(num, start, end):
         return False
 
 
-print(rang(5, 1, 10))    
-print(rang(15, 1, 10 ))
+print(rang(55, 1, 10))    
+print(rang(18, 1, 10 ))
 print(rang(8, 1, 5))    
-print(rang(10, 1, 10))   
+print(rang(15, 1, 20))   
 

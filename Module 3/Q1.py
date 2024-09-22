@@ -4,4 +4,5 @@
 #or changeable ordered sequence of elements.
 
 mylist=[10,20,30,40]
-print(mylist[::-1])
+mylist.reverse()
+print(mylist)

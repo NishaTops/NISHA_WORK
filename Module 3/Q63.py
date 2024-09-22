@@ -1,3 +1,4 @@
+
 #Q.63 Write a Python program to returns sum of all divisors of a number.
 
 num = int(input("Enter a number: "))

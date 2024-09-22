@@ -2,5 +2,5 @@
 
 D={"Apple":"red","Banana":"yellow","Grapes":"green"}
 for K in D:
-    print(k,"color is:",D[k])
+    print(K,"color is:",D[K])
 

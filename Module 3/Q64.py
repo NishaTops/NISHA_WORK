@@ -1,17 +1,10 @@
 #Q.64Write a Python program to find the maximum and minimum numbers from the specified decimal numbers. 
+decimal_numbers=[3.5,8.6,1.7,6.7,4.4]
+if decimal_numbers:
+    max_numbers=max(decimal_numbers)
+    min_number=min(decimal_numbers)
+    print(f"Maximum number:{max_numbers}")
+    print(f"Minimum number:{min_number}")
+else:
+    print("The list is empty.")
 
-deci_num = [23.45, 67.89, 12.34, 98.76, 45.67]
-
-
-max = deci_num[0]
-min = deci_num[0]
-
-
-for number in deci_num:
-    if number > max:
-        max = number
-    if number < min:
-        min = number
-
-print("Maximum number",(max))
-print("Minimum number",(min))
